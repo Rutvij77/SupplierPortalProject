@@ -1,0 +1,49 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.user
+*.swp
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuration Files
+appsettings*.json
+!appsettings.json
+!appsettings.Development.json
+
+# Logs
+*.log
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Node.js Dependencies
+node_modules/
+
+# Packages Folder (NuGet)
+*.nupkg
+*.snupkg
+*.nuget/
+
+# Environment Variables
+.env
+
+# Static Files
+wwwroot/node_modules/
